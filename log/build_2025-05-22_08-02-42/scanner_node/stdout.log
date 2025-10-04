@@ -1,0 +1,29 @@
+running egg_info
+creating ../../build/scanner_node/scanner_node.egg-info
+writing ../../build/scanner_node/scanner_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/scanner_node/scanner_node.egg-info/dependency_links.txt
+writing entry points to ../../build/scanner_node/scanner_node.egg-info/entry_points.txt
+writing requirements to ../../build/scanner_node/scanner_node.egg-info/requires.txt
+writing top-level names to ../../build/scanner_node/scanner_node.egg-info/top_level.txt
+writing manifest file '../../build/scanner_node/scanner_node.egg-info/SOURCES.txt'
+reading manifest file '../../build/scanner_node/scanner_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/scanner_node/scanner_node.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node
+copying scanner_node/scanner_node.py -> /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node
+copying scanner_node/__init__.py -> /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node
+running install
+running install_lib
+creating /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node
+copying /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node/scanner_node.py -> /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node
+copying /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node/__init__.py -> /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node
+byte-compiling /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node/scanner_node.py to scanner_node.cpython-310.pyc
+byte-compiling /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying package.xml -> /home/vsaini/bin_picking_ws/install/scanner_node/share/scanner_node
+running install_egg_info
+Copying ../../build/scanner_node/scanner_node.egg-info to /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node-0.0.0-py3.10.egg-info
+running install_scripts
+Installing scanner_node script to /home/vsaini/bin_picking_ws/install/scanner_node/lib/scanner_node
+writing list of installed files to '/home/vsaini/bin_picking_ws/build/scanner_node/install.log'

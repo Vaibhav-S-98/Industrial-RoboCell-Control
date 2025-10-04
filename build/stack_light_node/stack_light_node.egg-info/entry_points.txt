@@ -1,0 +1,2 @@
+[console_scripts]
+stack_light_node = stack_light_node.stack_light_node:main

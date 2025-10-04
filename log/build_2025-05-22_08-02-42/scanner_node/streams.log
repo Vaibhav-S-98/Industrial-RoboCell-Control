@@ -1,0 +1,31 @@
+[1.131s] Invoking command in '/home/vsaini/bin_picking_ws/src/scanner_node': PYTHONPATH=/home/vsaini/bin_picking_ws/build/scanner_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/scanner_node build --build-base /home/vsaini/bin_picking_ws/build/scanner_node/build install --record /home/vsaini/bin_picking_ws/build/scanner_node/install.log --single-version-externally-managed install_data
+[1.283s] running egg_info
+[1.292s] creating ../../build/scanner_node/scanner_node.egg-info
+[1.292s] writing ../../build/scanner_node/scanner_node.egg-info/PKG-INFO
+[1.292s] writing dependency_links to ../../build/scanner_node/scanner_node.egg-info/dependency_links.txt
+[1.292s] writing entry points to ../../build/scanner_node/scanner_node.egg-info/entry_points.txt
+[1.292s] writing requirements to ../../build/scanner_node/scanner_node.egg-info/requires.txt
+[1.292s] writing top-level names to ../../build/scanner_node/scanner_node.egg-info/top_level.txt
+[1.346s] writing manifest file '../../build/scanner_node/scanner_node.egg-info/SOURCES.txt'
+[1.364s] reading manifest file '../../build/scanner_node/scanner_node.egg-info/SOURCES.txt'
+[1.365s] writing manifest file '../../build/scanner_node/scanner_node.egg-info/SOURCES.txt'
+[1.366s] running build
+[1.366s] running build_py
+[1.366s] creating /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node
+[1.366s] copying scanner_node/scanner_node.py -> /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node
+[1.366s] copying scanner_node/__init__.py -> /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node
+[1.366s] running install
+[1.369s] running install_lib
+[1.377s] creating /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node
+[1.378s] copying /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node/scanner_node.py -> /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node
+[1.378s] copying /home/vsaini/bin_picking_ws/build/scanner_node/build/lib/scanner_node/__init__.py -> /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node
+[1.378s] byte-compiling /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node/scanner_node.py to scanner_node.cpython-310.pyc
+[1.378s] byte-compiling /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node/__init__.py to __init__.cpython-310.pyc
+[1.378s] running install_data
+[1.378s] copying package.xml -> /home/vsaini/bin_picking_ws/install/scanner_node/share/scanner_node
+[1.379s] running install_egg_info
+[1.388s] Copying ../../build/scanner_node/scanner_node.egg-info to /home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages/scanner_node-0.0.0-py3.10.egg-info
+[1.389s] running install_scripts
+[1.413s] Installing scanner_node script to /home/vsaini/bin_picking_ws/install/scanner_node/lib/scanner_node
+[1.414s] writing list of installed files to '/home/vsaini/bin_picking_ws/build/scanner_node/install.log'
+[1.434s] Invoked command in '/home/vsaini/bin_picking_ws/src/scanner_node' returned '0': PYTHONPATH=/home/vsaini/bin_picking_ws/build/scanner_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vsaini/bin_picking_ws/install/scanner_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/scanner_node build --build-base /home/vsaini/bin_picking_ws/build/scanner_node/build install --record /home/vsaini/bin_picking_ws/build/scanner_node/install.log --single-version-externally-managed install_data

@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/emergency_node/emergency_node.egg-info
+writing ../../build/emergency_node/emergency_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/emergency_node/emergency_node.egg-info/dependency_links.txt
+writing entry points to ../../build/emergency_node/emergency_node.egg-info/entry_points.txt
+writing requirements to ../../build/emergency_node/emergency_node.egg-info/requires.txt
+writing top-level names to ../../build/emergency_node/emergency_node.egg-info/top_level.txt
+writing manifest file '../../build/emergency_node/emergency_node.egg-info/SOURCES.txt'
+reading manifest file '../../build/emergency_node/emergency_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/emergency_node/emergency_node.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vsaini/bin_picking_ws/build/emergency_node/build/lib/emergency_node
+copying emergency_node/emergency_node.py -> /home/vsaini/bin_picking_ws/build/emergency_node/build/lib/emergency_node
+copying emergency_node/__init__.py -> /home/vsaini/bin_picking_ws/build/emergency_node/build/lib/emergency_node
+running install
+running install_lib
+creating /home/vsaini/bin_picking_ws/install/emergency_node/lib/python3.10/site-packages/emergency_node
+copying /home/vsaini/bin_picking_ws/build/emergency_node/build/lib/emergency_node/emergency_node.py -> /home/vsaini/bin_picking_ws/install/emergency_node/lib/python3.10/site-packages/emergency_node
+copying /home/vsaini/bin_picking_ws/build/emergency_node/build/lib/emergency_node/__init__.py -> /home/vsaini/bin_picking_ws/install/emergency_node/lib/python3.10/site-packages/emergency_node
+byte-compiling /home/vsaini/bin_picking_ws/install/emergency_node/lib/python3.10/site-packages/emergency_node/emergency_node.py to emergency_node.cpython-310.pyc
+byte-compiling /home/vsaini/bin_picking_ws/install/emergency_node/lib/python3.10/site-packages/emergency_node/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying package.xml -> /home/vsaini/bin_picking_ws/install/emergency_node/share/emergency_node
+creating /home/vsaini/bin_picking_ws/install/emergency_node/share/emergency_node/resource
+copying resource/emergency_node -> /home/vsaini/bin_picking_ws/install/emergency_node/share/emergency_node/resource
+running install_egg_info
+Copying ../../build/emergency_node/emergency_node.egg-info to /home/vsaini/bin_picking_ws/install/emergency_node/lib/python3.10/site-packages/emergency_node-0.0.0-py3.10.egg-info
+running install_scripts
+Installing emergency_node script to /home/vsaini/bin_picking_ws/install/emergency_node/lib/emergency_node
+writing list of installed files to '/home/vsaini/bin_picking_ws/build/emergency_node/install.log'

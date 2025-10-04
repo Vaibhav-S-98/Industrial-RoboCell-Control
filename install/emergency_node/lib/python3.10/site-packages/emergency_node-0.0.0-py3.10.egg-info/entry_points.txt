@@ -1,0 +1,2 @@
+[console_scripts]
+emergency_node = emergency_node.emergency_node:main

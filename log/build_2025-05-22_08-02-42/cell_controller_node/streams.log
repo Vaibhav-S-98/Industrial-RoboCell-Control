@@ -1,0 +1,30 @@
+[1.114s] Invoking command in '/home/vsaini/bin_picking_ws/src/cell_controller_node': PYTHONPATH=/home/vsaini/bin_picking_ws/build/cell_controller_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vsaini/bin_picking_ws/install/cell_controller_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cell_controller_node build --build-base /home/vsaini/bin_picking_ws/build/cell_controller_node/build install --record /home/vsaini/bin_picking_ws/build/cell_controller_node/install.log --single-version-externally-managed install_data
+[1.275s] running egg_info
+[1.284s] creating ../../build/cell_controller_node/cell_controller_node.egg-info
+[1.284s] writing ../../build/cell_controller_node/cell_controller_node.egg-info/PKG-INFO
+[1.284s] writing dependency_links to ../../build/cell_controller_node/cell_controller_node.egg-info/dependency_links.txt
+[1.284s] writing entry points to ../../build/cell_controller_node/cell_controller_node.egg-info/entry_points.txt
+[1.284s] writing requirements to ../../build/cell_controller_node/cell_controller_node.egg-info/requires.txt
+[1.284s] writing top-level names to ../../build/cell_controller_node/cell_controller_node.egg-info/top_level.txt
+[1.339s] writing manifest file '../../build/cell_controller_node/cell_controller_node.egg-info/SOURCES.txt'
+[1.358s] reading manifest file '../../build/cell_controller_node/cell_controller_node.egg-info/SOURCES.txt'
+[1.358s] writing manifest file '../../build/cell_controller_node/cell_controller_node.egg-info/SOURCES.txt'
+[1.358s] running build
+[1.358s] running build_py
+[1.359s] creating /home/vsaini/bin_picking_ws/build/cell_controller_node/build/lib/cell_controller_node
+[1.359s] copying cell_controller_node/__init__.py -> /home/vsaini/bin_picking_ws/build/cell_controller_node/build/lib/cell_controller_node
+[1.359s] running install
+[1.362s] running install_lib
+[1.370s] creating /home/vsaini/bin_picking_ws/install/cell_controller_node/lib/python3.10/site-packages/cell_controller_node
+[1.370s] copying /home/vsaini/bin_picking_ws/build/cell_controller_node/build/lib/cell_controller_node/__init__.py -> /home/vsaini/bin_picking_ws/install/cell_controller_node/lib/python3.10/site-packages/cell_controller_node
+[1.371s] byte-compiling /home/vsaini/bin_picking_ws/install/cell_controller_node/lib/python3.10/site-packages/cell_controller_node/__init__.py to __init__.cpython-310.pyc
+[1.371s] running install_data
+[1.371s] copying package.xml -> /home/vsaini/bin_picking_ws/install/cell_controller_node/share/cell_controller_node
+[1.371s] creating /home/vsaini/bin_picking_ws/install/cell_controller_node/share/cell_controller_node/resource
+[1.371s] copying resource/cell_controller_node -> /home/vsaini/bin_picking_ws/install/cell_controller_node/share/cell_controller_node/resource
+[1.371s] running install_egg_info
+[1.381s] Copying ../../build/cell_controller_node/cell_controller_node.egg-info to /home/vsaini/bin_picking_ws/install/cell_controller_node/lib/python3.10/site-packages/cell_controller_node-0.0.0-py3.10.egg-info
+[1.381s] running install_scripts
+[1.404s] Installing cell_controller_node script to /home/vsaini/bin_picking_ws/install/cell_controller_node/lib/cell_controller_node
+[1.404s] writing list of installed files to '/home/vsaini/bin_picking_ws/build/cell_controller_node/install.log'
+[1.422s] Invoked command in '/home/vsaini/bin_picking_ws/src/cell_controller_node' returned '0': PYTHONPATH=/home/vsaini/bin_picking_ws/build/cell_controller_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vsaini/bin_picking_ws/install/cell_controller_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/cell_controller_node build --build-base /home/vsaini/bin_picking_ws/build/cell_controller_node/build install --record /home/vsaini/bin_picking_ws/build/cell_controller_node/install.log --single-version-externally-managed install_data

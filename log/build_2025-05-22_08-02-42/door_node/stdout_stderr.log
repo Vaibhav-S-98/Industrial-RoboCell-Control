@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/door_node/door_node.egg-info
+writing ../../build/door_node/door_node.egg-info/PKG-INFO
+writing dependency_links to ../../build/door_node/door_node.egg-info/dependency_links.txt
+writing entry points to ../../build/door_node/door_node.egg-info/entry_points.txt
+writing requirements to ../../build/door_node/door_node.egg-info/requires.txt
+writing top-level names to ../../build/door_node/door_node.egg-info/top_level.txt
+writing manifest file '../../build/door_node/door_node.egg-info/SOURCES.txt'
+reading manifest file '../../build/door_node/door_node.egg-info/SOURCES.txt'
+writing manifest file '../../build/door_node/door_node.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vsaini/bin_picking_ws/build/door_node/build/lib/door_node
+copying door_node/door_node.py -> /home/vsaini/bin_picking_ws/build/door_node/build/lib/door_node
+copying door_node/__init__.py -> /home/vsaini/bin_picking_ws/build/door_node/build/lib/door_node
+running install
+running install_lib
+creating /home/vsaini/bin_picking_ws/install/door_node/lib/python3.10/site-packages/door_node
+copying /home/vsaini/bin_picking_ws/build/door_node/build/lib/door_node/door_node.py -> /home/vsaini/bin_picking_ws/install/door_node/lib/python3.10/site-packages/door_node
+copying /home/vsaini/bin_picking_ws/build/door_node/build/lib/door_node/__init__.py -> /home/vsaini/bin_picking_ws/install/door_node/lib/python3.10/site-packages/door_node
+byte-compiling /home/vsaini/bin_picking_ws/install/door_node/lib/python3.10/site-packages/door_node/door_node.py to door_node.cpython-310.pyc
+byte-compiling /home/vsaini/bin_picking_ws/install/door_node/lib/python3.10/site-packages/door_node/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying package.xml -> /home/vsaini/bin_picking_ws/install/door_node/share/door_node
+creating /home/vsaini/bin_picking_ws/install/door_node/share/door_node/resource
+copying resource/door_node -> /home/vsaini/bin_picking_ws/install/door_node/share/door_node/resource
+running install_egg_info
+Copying ../../build/door_node/door_node.egg-info to /home/vsaini/bin_picking_ws/install/door_node/lib/python3.10/site-packages/door_node-0.0.0-py3.10.egg-info
+running install_scripts
+Installing door_node script to /home/vsaini/bin_picking_ws/install/door_node/lib/door_node
+writing list of installed files to '/home/vsaini/bin_picking_ws/build/door_node/install.log'

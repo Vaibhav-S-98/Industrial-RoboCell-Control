@@ -1,0 +1,8 @@
+
+            
+             try:
+            print("[CELL] Sending confirmation to WMS...")
+            response = requests.post("http://127.0.0.1:9000/confirmPick", json=result, timeout=10)
+            print(f"[CELL] Confirmation sent: {response.status_code}")
+        except Exception as e:
+            print(f"[CELL] Failed to send confirmation: {e}")

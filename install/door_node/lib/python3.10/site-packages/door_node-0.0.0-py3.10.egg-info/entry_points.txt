@@ -1,0 +1,2 @@
+[console_scripts]
+door_node = door_node.door_node:main
